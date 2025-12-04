@@ -4,4 +4,4 @@ enable-magisk-update = false
 version = "auto"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 included-patches = "'SIM spoof'"
-arch = "arm64-v8a"
+arch = "both"
